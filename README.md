@@ -1,0 +1,1 @@
+For the operation of this application, first of all, an iPYNB file, images file and an extra file are created and all of them are in the same folder and you need to change the picture addresses in the code, then ready to work after entering the right picture paths
